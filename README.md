@@ -4,7 +4,11 @@
 
 Build a front-end UI for an E-Learning Platform. The application should simulate a learning platform with basic front-end functionality.
 ##Output
+![Image](https://github.com/user-attachments/assets/1917ff00-00ca-4cb2-b30e-a9798948510d)
 
+![Image](https://github.com/user-attachments/assets/66c13631-99f6-4df1-9f57-9814080b575e)
+
+![Image](https://github.com/user-attachments/assets/3582cb4f-b0ca-42e3-b5fa-233c58940bdd)
 ##  Features
 
 - 🔍 Course listing page (with titles, descriptions, and thumbnails)
